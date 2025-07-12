@@ -53,16 +53,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ---
 
-## 🎵 Currently Playing on Spotify
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31unf5wq4lcysccunenthbluitci&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=00D4AA&bar_color_cover=false" alt="Spotify Profile" />
-</div>
-
-**My Debugging Partner 🐞**
-
----
-
 ## 🏆 Top Languages
 
 <div align="center">
