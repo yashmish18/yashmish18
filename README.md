@@ -24,8 +24,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### Tools & Platforms
@@ -114,7 +112,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 I'm currently learning **cybersecurity, AI/ML, and Java**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development, APIs, and problem-solving**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: yashhh10930@gmail.com
 - 😄 Pronouns: **He/Him**
 
 ---
