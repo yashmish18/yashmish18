@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yash Mishra!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Ambitious+Learner;Open+Source+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -61,7 +61,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31unf5wq4lcysccunenthbluitci&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=00D4AA&bar_color_cover=false" alt="Spotify Profile" />
 </div>
 
-*Your Spotify profile shows some awesome playlists like "yaxh is in mood", "yaxh goes to videsh", and "yaxh is in lob"! 🎵*
+**My Debugging Partner 🐞**
 
 ---
 
@@ -92,19 +92,16 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/yash-mishra-022b66330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/yaxh_died?igsh=MWg1M3pxeXM5YWMxMg==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yashhh10930@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://portfolio-one-virid-22.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -114,12 +111,11 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🌟 Fun Facts
 
 - 🔭 I'm currently working on **exciting new projects**
-- 🌱 I'm currently learning **advanced React patterns and AI/ML**
+- 🌱 I'm currently learning **cybersecurity, AI/ML, and Java**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development, APIs, and problem-solving**
 - 📫 How to reach me: **your.email@example.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can debug code while listening to heavy metal! 🤘**
 
 ---
 
